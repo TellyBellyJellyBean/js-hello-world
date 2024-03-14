@@ -5,6 +5,13 @@ to the console (the panel on the right)
 */
 
 console.log("Hello");
+console.log("Hal9000")
+console.log("2+2=4");
+console.log("Multiple Messages Have Been Printed. I am certain.");console.log("But are they in succession?");
+console.log("...Obviously.");
+console.log('"What are you doing, Dave"');
+console.log("9/9");
+console.log("Please just accept my git push!");
 
 /*  
 Next, PLAY! 
